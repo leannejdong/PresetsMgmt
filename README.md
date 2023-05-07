@@ -1,5 +1,7 @@
 # Juce Preset Manager
 
+(example from the audioprogrammer)
+
 This is a small demo project on setting up a Preset Management system for audio plugins using the Juce framework.
 
 We learn
@@ -15,4 +17,4 @@ We learn
 
 1. [JUCE](https://juce.com/get-juce/download) 
 2. C++17 compiler or above
-3. IDE of your choice (Visual Studio, Xcode, etc)
+3. IDE of your choice (Visual Studio, Xcode, etc
