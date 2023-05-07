@@ -1,0 +1,5 @@
+**/JuceLibraryCode/
+**/Builds/
+*.exe
+*.pkg
+presetmgmt.png:Zone.Identifier
